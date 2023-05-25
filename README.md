@@ -11,6 +11,11 @@ This awesome list intends to collect real world examples of how people design an
 - [Go | React] [Jeager - a distributed tracing platform created by Uber Technologies](https://github.com/jaegertracing/jaeger)
 - [Go] [Gatus - automated dev-friendly status page](https://github.com/TwiN/gatus)
 - [Python] [Pagure - a code hosting system](https://github.com/Pagure/pagure)
+- [Java] [OpenNMS - an rnterprise-Grade Open-Source Network Management Platform](https://github.com/OpenNMS/opennms)
+
+## Hostings
+
+- [Go] [Tsuru - an extensible and open source Platform as a Service (PaaS) that makes application deployments faster and easier](https://github.com/tsuru/tsuru)
 
 ## Localizations
 
@@ -28,14 +33,16 @@ This awesome list intends to collect real world examples of how people design an
 - [PHP | JavaScript] [Magento Open Source - a extensible commerce platform](https://github.com/magento/magento2)
 - [Python/Django] [Shuup - eCommerce platform based on Django and Python](https://github.com/shuup/shuup)
 
-## Communication
+## Communication, Management
 
 - [NodeJS] [Rocket.Chat - a fully customizable communications platform developed in JavaScript for organizations with high standards of data protection](https://github.com/RocketChat/Rocket.Chat)
 - [Ruby] [Discourse - a discussion platform with mailing lists, long-form chats and forums](https://github.com/discourse/discourse)
+- [Python/Django | Angular] [Taiga - an agile project management platform](https://github.com/taigaio/taiga-back)
 
 ## Security
 
 - [Python/Flask | Angular] [Faraday - a vulnerability management platform](https://github.com/infobyte/faraday)
+- [Python] [Fuxi - a penetration testing platform](https://github.com/jeffzh3ng/fuxi)
 
 ## Data Management
 
@@ -45,4 +52,17 @@ This awesome list intends to collect real world examples of how people design an
 ## Analytics, BI
 
 - [Python | React] [Apache Superset - a data visualization and exploration platform](https://github.com/apache/superset)
-- 
+- [PHP] [Matomo - a free/libre open analytics platform](https://github.com/matomo-org/matomo)
+
+## Machine Learning
+
+- [Python] [MLFlow - a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models](https://github.com/mlflow/mlflow)
+- [C++] [bigartm - a topic modeling platform](https://github.com/bigartm/bigartm)
+
+## IoT, Home Automations
+
+- [PHP] [MajorDoMo - a DIY smarthome automation platform aimed to be used in multi-protocol and multi-services environment](https://github.com/sergejey/majordomo)
+
+## eLearning
+
+- [PHP] [Moodle - the world's open source learning platform](https://github.com/moodle/moodle)
