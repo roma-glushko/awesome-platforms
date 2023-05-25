@@ -25,6 +25,11 @@ This awesome list intends to collect real world examples of how people design an
 
 - [NodeJS] [Argos - a visual testing solution that fits in your workflow to avoid visual regression](https://github.com/argos-ci/argos)
 
+## Automations
+
+- [Ruby] [Huginn - a system for building agents that perform automated tasks for you online](https://github.com/huginn/huginn)
+- [NodeJs] [Pipedream - a free, hosted platform for connecting apps and developing event-driven automations](https://github.com/PipedreamHQ/pipedream)
+
 ## Business
 
 - [Python | JavaScript] [Odoo - a suite of business applications like ERP, CRM, Warehouse Management, eCommerce, Marketing, Hiring, Accounting](https://github.com/odoo/odoo) [Architecture](https://www.odoo.com/documentation/16.0/developer/tutorials/getting_started/01_architecture.html)
@@ -59,7 +64,7 @@ This awesome list intends to collect real world examples of how people design an
 - [Python] [MLFlow - a platform to streamline machine learning development, including tracking experiments, packaging code into reproducible runs, and sharing and deploying models](https://github.com/mlflow/mlflow)
 - [C++] [bigartm - a topic modeling platform](https://github.com/bigartm/bigartm)
 
-## IoT, Home Automations
+## IoT, Home Assistances
 
 - [PHP] [MajorDoMo - a DIY smarthome automation platform aimed to be used in multi-protocol and multi-services environment](https://github.com/sergejey/majordomo)
 
