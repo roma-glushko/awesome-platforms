@@ -12,12 +12,17 @@ This awesome list intends to collect real world examples of how people design an
 - [Python] [Pagure - a code hosting system](https://github.com/Pagure/pagure)
 - [Java] [OpenNMS - an rnterprise-Grade Open-Source Network Management Platform](https://github.com/OpenNMS/opennms)
 - [Go] [flipt - an open-source, self-hosted feature flag application that allows you to run experiments across services in your environment](https://github.com/flipt-io/flipt)
+- [Java] [Harness - a CI/CD platform](https://github.com/harness/harness-core)
 
 ### Observability
 
 - [Go | React] [Jeager - a distributed tracing platform created by Uber Technologies](https://github.com/jaegertracing/jaeger)
 - [Go | React] [Signoz - an open-source alternative to DataDog, New Relic with logs, metrics, traces, dashboard, alerts](https://github.com/SigNoz/signoz)
 - [Go] [uptrace - OpenTelemetry traces, metrics, and logs](https://github.com/uptrace/uptrace)
+- [Go] [teletrace - an open-source distributed tracing system](https://github.com/teletrace/teletrace)
+- [Go] [orb - a modern network observability platform built to provide critical visibility into increasingly complex and distributed networks](https://github.com/orb-community/orb)
+- [Go] [deepflow - instant Observability for Cloud-Native Applications](https://github.com/deepflowio/deepflow)
+
 
 ## Hostings
 
