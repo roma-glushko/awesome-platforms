@@ -8,11 +8,9 @@ This awesome list intends to collect real world examples of how people design an
 - [Go | TypeScript] [Harbor - a cloud native registry that stores, signs, and scans content](https://github.com/goharbor/harbor) [Architecture](https://github.com/goharbor/harbor/wiki/Architecture-Overview-of-Harbor)
 - [Go | Vue] [Gitea - a self-hosted Git service with code review, team collaboration, package registry and CI/CD](https://github.com/go-gitea/gitea)
 - [Go] [Gogs - a simple, stable and extensible self-hosted Git service](https://github.com/gogs/gogs)
-- [Go] [Gatus - automated dev-friendly status page](https://github.com/TwiN/gatus)
 - [Python] [Pagure - a code hosting system](https://github.com/Pagure/pagure)
 - [Java] [OpenNMS - an rnterprise-Grade Open-Source Network Management Platform](https://github.com/OpenNMS/opennms)
 - [Go] [flipt - an open-source, self-hosted feature flag application that allows you to run experiments across services in your environment](https://github.com/flipt-io/flipt)
-- [Java] [Harness - a CI/CD platform](https://github.com/harness/harness-core)
 
 ### Observability
 
@@ -22,11 +20,15 @@ This awesome list intends to collect real world examples of how people design an
 - [Go] [teletrace - an open-source distributed tracing system](https://github.com/teletrace/teletrace)
 - [Go] [orb - a modern network observability platform built to provide critical visibility into increasingly complex and distributed networks](https://github.com/orb-community/orb)
 - [Go] [deepflow - instant Observability for Cloud-Native Applications](https://github.com/deepflowio/deepflow)
+- [Go] [Gatus - automated dev-friendly status page](https://github.com/TwiN/gatus)
 
-
-## Hostings
+### Hostings
 
 - [Go] [Tsuru - an extensible and open source Platform as a Service (PaaS) that makes application deployments faster and easier](https://github.com/tsuru/tsuru)
+
+### CI/CD
+
+- [Java] [Harness - a CI/CD platform](https://github.com/harness/harness-core)
 
 ## Localizations
 
