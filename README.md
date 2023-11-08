@@ -8,10 +8,16 @@ This awesome list intends to collect real world examples of how people design an
 - [Go | TypeScript] [Harbor - a cloud native registry that stores, signs, and scans content](https://github.com/goharbor/harbor) [Architecture](https://github.com/goharbor/harbor/wiki/Architecture-Overview-of-Harbor)
 - [Go | Vue] [Gitea - a self-hosted Git service with code review, team collaboration, package registry and CI/CD](https://github.com/go-gitea/gitea)
 - [Go] [Gogs - a simple, stable and extensible self-hosted Git service](https://github.com/gogs/gogs)
-- [Go | React] [Jeager - a distributed tracing platform created by Uber Technologies](https://github.com/jaegertracing/jaeger)
 - [Go] [Gatus - automated dev-friendly status page](https://github.com/TwiN/gatus)
 - [Python] [Pagure - a code hosting system](https://github.com/Pagure/pagure)
 - [Java] [OpenNMS - an rnterprise-Grade Open-Source Network Management Platform](https://github.com/OpenNMS/opennms)
+- [Go] [flipt - an open-source, self-hosted feature flag application that allows you to run experiments across services in your environment](https://github.com/flipt-io/flipt)
+
+### Observability
+
+- [Go | React] [Jeager - a distributed tracing platform created by Uber Technologies](https://github.com/jaegertracing/jaeger)
+- [Go | React] [Signoz - an open-source alternative to DataDog, New Relic with logs, metrics, traces, dashboard, alerts](https://github.com/SigNoz/signoz)
+- [Go] [uptrace - OpenTelemetry traces, metrics, and logs](https://github.com/uptrace/uptrace)
 
 ## Hostings
 
